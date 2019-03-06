@@ -8,6 +8,11 @@ verify_ssl = true
 [packages]
 flask = "*"
 flask-sqlalchemy = "*"
+tweepy = "*"
+basilica = "*"
+python-decouple = "*"
+numpy = "*"
+sklearn = "*"
 
 [requires]
 python_version = "3.6"
