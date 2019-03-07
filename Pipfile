@@ -13,6 +13,7 @@ basilica = "*"
 python-decouple = "*"
 numpy = "*"
 sklearn = "*"
+gunicorn = "*"
 
 [requires]
 python_version = "3.6"
